@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### A little about yours truly:
+- My first website: Geocities
+- My first terminal: DOS command prompt
+- My first program, and please, do comment your opinions (adulty-like): POV-Ray
+- My first high level programming language: Java
+- My first team: Blind Audio-Tactile Mapping System (BATS)
+- My current favorite high level language: JavaScript
+- I enjoy writing, reading, music, and TV
 <!--
 **jenanemone/jenanemone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
