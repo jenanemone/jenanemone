@@ -31,10 +31,10 @@ I love learning, so I'm always reading docs and tutorials, or talking code with 
 :sparkling_heart: My current favorite high level language: JavaScript / Node    
 
 :sparkles: In addition to coding, I enjoy writing, reading, music, and TV.    
- ---   
+   
     
 :pushpin: I'm currently working on my own projects, but I'm available for contract and hire.    
-
+---
 
 * [Twitter](https://twitter.com/jenanemone)
 * [LinkedIn](https://www.linkedin.com/in/jennifer-allen-jenanemone/)
