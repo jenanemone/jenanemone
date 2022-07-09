@@ -33,7 +33,7 @@ I love learning, so I'm always reading docs and tutorials, or talking code with 
 :sparkles: In addition to coding, I enjoy writing, reading, music, and TV.    
    
     
-:pushpin: I'm currently working on my own projects, but I'm available for contract and hire.    
+:pushpin: I'm currently working on wrapping up a few client projects and building my own, but I'm available to discuss a new contract or hire! Let's connect.
 ---
 
 * [Twitter](https://twitter.com/jenanemone)
