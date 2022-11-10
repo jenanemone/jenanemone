@@ -4,36 +4,19 @@
 ---
 
 #### A little about yours truly:
-:hatching_chick: My first website: Geocities.   
+I started building websites back in the days of Geocities. I spent time working on a research project helping the visually-impaired access maps while at the University of North Carolina at Chapel Hill, [Blind Audio-Tactile Mapping System (BATS)](https://www.python.org/success-stories/python-in-the-blind-audio-tactile-mapping-system/), but after graduation I ended up falling into an inventory-based wholesale and eCommerce business. For the last 2 years I've been grinding out websites for clients, writing scripts for automating data extraction, and building applications for a variety of tasks.
 
-:star2: My current portfolio site, with links to a few other projects: [jenanemone.netlify.app](https://jenanemone.netlify.app)  
-   
-     
-:hatching_chick: My first terminal: DOS command prompt    
+:star2: My current portfolio site (which actually needs some TLC and updating as of November 2022) with links to a few other projects: [jenanemone.netlify.app](https://jenanemone.netlify.app)     
 
-:blue_heart: My current favorite terminal: **zsh**    
-    
-    
-:hatching_chick: My first high level programming language: Java :coffee:      
-
-:rocket: My current work in progress: a public speaking practice tool :speak_no_evil:    
+:rocket: My current work in progress: a public speaking practice tool: [Click here to view the demo of Imposture](https://imposture-production.up.railway.app/)
     
      
 I love learning, so I'm always reading docs and tutorials, or talking code with friends and colleagues.
 ---
 
-:calendar: My current curriculum: going deeper on MERN stack, and templating with [EJS](https://ejs.co/#promo)    
-    
-     
-:hatching_chick: My first team project: [Blind Audio-Tactile Mapping System (BATS)](https://www.python.org/success-stories/python-in-the-blind-audio-tactile-mapping-system/)     
-    
-     
-:sparkling_heart: My current favorite high level language: JavaScript / Node    
+My current curriculum: going deeper on MERN stack, currently improving my React game and expanding my knowledge of CSS. 
 
-:sparkles: In addition to coding, I enjoy writing, reading, music, and TV.    
-   
-    
-:pushpin: I'm currently working on wrapping up a few client projects and building my own, but I'm available to discuss a new contract or hire! Let's connect.
+:pushpin: I'm currently working on wrapping up a few client projects and building my own passion projects, but I'm available to mentor, discuss a new contract, or in the very near future, to join a team! Let's connect.
 ---
 
 * [Twitter](https://twitter.com/jenanemone)
