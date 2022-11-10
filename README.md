@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm, Jennie, a US-based full-stack web developer and software engineer. 
+### I'm Jennie, a US-based full-stack web developer and software engineer. 
 ---
 
 #### A little about yours truly:
